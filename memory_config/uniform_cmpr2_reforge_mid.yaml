@@ -1,0 +1,4 @@
+cmpr: 1
+sparse_mode: pooling
+reforge_pos: True
+max_cache_len: 128000

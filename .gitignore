@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+nohup.out
+.DS_Store
+.env
+venv/
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.mp4
